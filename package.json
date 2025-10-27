@@ -1,0 +1,25 @@
+{
+  "name": "mitos-y-leyendas-cards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasp90/mitos-y-leyendas-cards.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasp90/mitos-y-leyendas-cards/issues"
+  },
+  "homepage": "https://github.com/lucasp90/mitos-y-leyendas-cards#readme",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "fast-glob": "^3.3.3"
+  },
+  "type": "module"
+}
